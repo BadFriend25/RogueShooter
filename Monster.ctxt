@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Monster
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Monster\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ updateCounter()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ atTopEdge()
+comment4.params=
+comment4.target=boolean\ atLeftEdge()
+comment5.params=
+comment5.target=boolean\ atBottomEdge()
+comment6.params=
+comment6.target=boolean\ atRightEdge()
+comment7.params=
+comment7.target=void\ turnAtEdge()
+comment8.params=
+comment8.target=void\ attacked()
+numComments=9
